@@ -17,8 +17,12 @@ aside form {
     margin-top: 30px;
 }
 
-aside fomr .input-block + .input-block {
+aside form .input-block + .input-block {
     margin-top: 20px;
+}
+
+aside form .input-group .input-block {
+    margin-top: 0;
 }
 
 aside form .input-group {
